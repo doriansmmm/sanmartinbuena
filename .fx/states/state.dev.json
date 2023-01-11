@@ -1,0 +1,28 @@
+{
+    "solution": {
+        "provisionSucceeded": true,
+        "teamsAppTenantId": "9c88d1e9-92e3-46f2-b2a5-768139c7c1bb",
+        "subscriptionId": "d0bb7f56-3fce-452d-adcc-ef5d21735836",
+        "subscriptionName": "Suscripción de Visual Studio Enterprise - MPN",
+        "tenantId": "9c88d1e9-92e3-46f2-b2a5-768139c7c1bb",
+        "needCreateResourceGroup": true,
+        "resourceGroupName": "appteams-dev-rg",
+        "location": "South Central US",
+        "resourceNameSuffix": "bf4933"
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "9c88d1e9-92e3-46f2-b2a5-768139c7c1bb",
+        "teamsAppId": "d54629b4-eb16-41b7-84d1-4f6c65eb6d0b"
+    },
+    "fx-resource-frontend-hosting": {
+        "indexPath": "/index.html#",
+        "domain": "appteams67cd43tab.z21.web.core.windows.net",
+        "endpoint": "https://appteams67cd43tab.z21.web.core.windows.net",
+        "storageResourceId": "/subscriptions/d0bb7f56-3fce-452d-adcc-ef5d21735836/resourceGroups/appteams-dev-rg/providers/Microsoft.Storage/storageAccounts/appteams67cd43tab"
+    },
+    "fx-resource-identity": {
+        "identityName": "appteams67cd43",
+        "identityResourceId": "/subscriptions/d0bb7f56-3fce-452d-adcc-ef5d21735836/resourceGroups/appteams-dev-rg/providers/Microsoft.ManagedIdentity/userAssignedIdentities/appteams67cd43",
+        "identityClientId": "36c10ceb-fc51-42cb-9efb-7d4f6000d102"
+    }
+}
